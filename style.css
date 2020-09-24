@@ -1,0 +1,63 @@
+body {
+    background-color: white;
+    text-align: center;
+    margin: 0 auto;
+    padding: 100px;
+    
+}
+
+div {
+    border: 0.5px solid grey;
+    height: 30px;
+    width: 250px;
+    box-sizing: border-box;
+    padding-top: 5px;
+    
+}
+
+.track {
+    background-color: rgba(223, 191, 12, 0.747);
+    border-radius: 2px;
+    margin-bottom: 20px;
+    text-decoration: none;
+   
+}
+
+
+.order {
+    background-color: rgb(230, 228, 228);
+    border-radius: 2px;
+    margin: 5px 0px;
+    text-decoration: none;
+   
+}
+
+.view {
+    background-color: rgb(230, 228, 228);
+    border-radius: 2px;
+    margin: 5px 0px;
+    text-decoration: none;
+   
+}
+
+.cancel {
+    background-color: rgb(230, 228, 228);
+    border-radius: 2px;
+    margin: 5px 0px;
+    text-decoration: none;
+   
+}
+
+.archive {
+    background-color: rgb(230, 228, 228);
+    border-radius: 2px;
+    margin: 5px 0px;
+    text-decoration: none;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
