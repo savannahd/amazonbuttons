@@ -15,6 +15,7 @@ div {
     border-radius: 2px;
     margin-bottom: 20px;
     text-decoration: none;
+    background-color: rgb(230, 228, 228);
     
 }
 
@@ -27,36 +28,7 @@ div {
 }
 
 
-.order {
-    background-color: rgb(230, 228, 228);
-    /* border-radius: 2px;
-    margin: 5px 0px;
-    text-decoration: none; */
-   
-}
 
-.view {
-    background-color: rgb(230, 228, 228);
-    /* border-radius: 2px;
-    margin: 5px 0px;
-    text-decoration: none; */
-   
-}
-
-.cancel {
-    background-color: rgb(230, 228, 228);
-    /* border-radius: 2px;
-    margin: 5px 0px;
-    text-decoration: none; */
-   
-}
-
-.archive {
-    background-color: rgb(230, 228, 228);
-    /* border-radius: 2px;
-    margin: 5px 0px;
-    text-decoration: none; */
-}
 
 a:link {
     text-decoration: none;
